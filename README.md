@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-!Hola, bienvenido a mi perfil Github<br><br>Nilson De la ossa.<br>Desarrollador de software y analista de datos.<br><br><br> Stack Tecnológico <br><br>Frontend: HTML, CSS, JavaScript </><br>Backend: Python (Django/FastAPI) 🐍<br>Bases de Datos: SQL (MySQL/PostgreSQL), NoSQL (MongoDB) 🗄️<br>Análisis de Datos: Pandas, Jupyter 📊<br>Visualización de Datos: Power BI 📈<br>Sistemas Operativos: Linux (Ubuntu FTW!) 🐧💻<br>Blockchain: Ethereum, Smart Contracts 🌐🔗<br>Control de Versiones: Git, GitHub 🔄<br>Herramientas de Despliegue: Docker, Kubernetes 🚢🐳<br>
+!Hola, bienvenido a mi perfil Github<br><br>Nilson De la ossa.<br>Desarrollador de software y analista de datos.
 
 
 ## 🌐 Socials:
