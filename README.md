@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-!Hola, bienvenido a mi perfil Github<br><br>Nilson De la ossa.<br>Desarrollador de software y analista de datos.
+!Hola, bienvenid@ a mi perfil de Github<br><br>Nilson De la ossa.<br>Desarrollador de software y analista de datos.
 
 
 ## 🌐 Socials:
